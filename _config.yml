@@ -67,7 +67,7 @@ netease_comment: false
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
 sidebar-about-description: "心中有海，不赶浪潮"
-sidebar-avatar: https://github.com/Socra_Lin.png # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: https://avatars.githubusercontent.com/u/179568183?v=4 # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
 featured-tags: true # whether or not using Feature-Tags
