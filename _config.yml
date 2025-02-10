@@ -51,7 +51,7 @@ kramdown:
       start_line: 1
 
 # Disqus settings
-disqus_username: socralin
+# disqus_username: socralin
 
 # Netease settings
 netease_comment: false
