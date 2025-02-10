@@ -706,7 +706,7 @@ tags:
 - 歧义及种类
   - 歧义，即同形异义，指同一个语言片断可以作两种或多种理解。有模糊、笼统的特点
     - 以语言片段的同形为前提，形式不同，则无所谓歧义。
-  - 类型![image-20250210161503058](C:\Users\12909\AppData\Roaming\Typora\typora-user-images\image-20250210161503058.png)
+  - 类型![img](https://github.com/SocraLin/socralin.github.io/blob/master/img/qiyi.png)
 - 词汇歧义
   - 因词汇的多义引起的歧解。
   - 同音：
