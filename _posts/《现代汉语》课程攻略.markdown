@@ -1,7 +1,6 @@
 ---
 layout:     post
 title:      "《现代汉语》课程攻略"
-subtitle:   ""
 date:       2025-02-10 14:00:00
 author:     "Socra Lin"
 header-img: "img/post-bg-2015.jpg"
