@@ -3,7 +3,7 @@ layout:     post
 title:      "《中国现当代文学史I》课程攻略"
 date:       2025-02-10 15:00:00
 author:     "Socra Lin"
-header-img: "img/wallpaper2.jpg"
+header-img: "img/wallpaper3.jpg"
 tags:
     - 文学院课程攻略共享计划
 ---
