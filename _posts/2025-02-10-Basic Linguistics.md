@@ -1,11 +1,12 @@
 ---
 layout:     post
-title:      "《语言学基础》课程攻略"
+title:      "《语言学基础》课程攻略 —— 期末复习篇"
 date:       2025-02-10 16:00:00
 author:     "Socra Lin"
 header-img: "img/wallpaper5.jpg"
 tags:
     - 文学院课程攻略共享计划
+    - 期末复习篇
 ---
 # 引言
 
