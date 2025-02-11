@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "《文学理论》课程攻略 —— 期末考试篇"
+title:      "《文学理论》课程攻略 —— 期末复习篇"
 date:       2025-02-10 16:00:00
 author:     "Socra Lin"
 header-img: "img/wallpaper4.jpg"
