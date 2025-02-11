@@ -6,6 +6,7 @@ author:     "Socra Lin"
 header-img: "img/wallpaper3.jpg"
 tags:
     - 文学院课程攻略共享计划
+    - 期末复习篇
 ---
 
 ## 第二节课
