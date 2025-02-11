@@ -1,11 +1,12 @@
 ---
 layout:     post
-title:      "《文学理论》课程攻略"
+title:      "《文学理论》课程攻略 —— 期末考试篇"
 date:       2025-02-10 16:00:00
 author:     "Socra Lin"
 header-img: "img/wallpaper4.jpg"
 tags:
     - 文学院课程攻略共享计划
+    - 期末考试篇
 ---
 
 # 文学理论知识框架
