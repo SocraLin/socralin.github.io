@@ -6,6 +6,7 @@ author:     "Socra Lin"
 header-img: "img/wallpaper3.jpg"
 tags:
     - 文学院课程攻略共享计划
+    - 平时学习篇
 ---
 
 # 中国现当代文学史I 课程攻略
