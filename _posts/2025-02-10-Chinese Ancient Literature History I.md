@@ -1,11 +1,12 @@
 ---
 layout:     post
-title:      "《中国古代文学史I》课程攻略"
+title:      "《中国古代文学史I》课程攻略 —— 期末复习篇"
 date:       2025-02-10 17:00:00
 author:     "Socra Lin"
 header-img: "img/wallpaper6.jpg"
 tags:
     - 文学院课程攻略共享计划
+    - 期末复习篇
 ---
 
 # 第一节课：绪论
