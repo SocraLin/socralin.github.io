@@ -1,11 +1,12 @@
 ---
 layout:     post
-title:      "《中国现当代文学史II》课程攻略"
+title:      "《中国现当代文学史II》课程攻略 —— 期末复习篇"
 date:       2025-02-10 17:00:00
 author:     "Socra Lin"
 header-img: "img/wallpaper7.jpg"
 tags:
     - 文学院课程攻略共享计划
+    - 期末复习篇
 ---
 # 一：文学的一元化与规范
 
