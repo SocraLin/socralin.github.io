@@ -1,11 +1,12 @@
 ---
 layout:     post
-title:      "《现代汉语》课程攻略"
+title:      "《现代汉语》课程攻略 —— 期末复习篇"
 date:       2025-02-10 14:00:00
 author:     "Socra Lin"
 header-img: "img/wallpaper2.jpg"
 tags:
     - 文学院课程攻略共享计划
+    - 期末复习篇
 ---
 
 # 现代汉语总复习
