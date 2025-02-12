@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "《语言学基础》课程攻略 —— 平时学习篇"
-date:       2025-02-12 16:00:00
+date:       2025-02-12 12:00:00
 author:     "Socra Lin"
 header-img: "img/wallpaper5.jpg"
 tags:
