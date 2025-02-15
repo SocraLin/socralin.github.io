@@ -20,3 +20,5 @@ About Me
 
 * Motto: "Keep your own ocean in heart, don’t chase every wave."
 
+* Email: Socra_Lin@163.com
+
