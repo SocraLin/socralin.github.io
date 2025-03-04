@@ -3,7 +3,7 @@ layout:     post
 title:      "《中国古代文学史II》上课记录"
 date:       2025-03-04 10:00:00
 author:     "Socra Lin"
-header-img: "img/wallpaper5.jpg"
+header-img: "img/wallpaper8.jpg"
 tags:
     - 文学院课程攻略共享计划
     - 上课记录
