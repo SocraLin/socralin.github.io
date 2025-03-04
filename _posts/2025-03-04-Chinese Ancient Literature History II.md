@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/5cd35a2f-3ba5-4cf2-8beb-72a19df1f67b)---
+---
 layout:     post
 title:      "《中国古代文学史II》上课记录（更新中）"
 date:       2025-03-04 10:00:00
