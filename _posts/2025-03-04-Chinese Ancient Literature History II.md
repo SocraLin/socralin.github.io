@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "《中国古代文学史II》上课记录"
+title:      "《中国古代文学史II》上课记录（更新中）"
 date:       2025-03-04 10:00:00
 author:     "Socra Lin"
 header-img: "img/wallpaper8.jpg"
