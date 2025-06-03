@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "《古代漢語I》課程攻略 —— 期末復習篇
+title:      《古代漢語I》課程攻略 —— 期末復習篇
 date:       2025-06-03 10:00:00
 author:     "Socra Lin"
 header-img: "img/wallpaper9.jpg"
