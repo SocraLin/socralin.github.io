@@ -3,7 +3,7 @@ layout:     post
 title:      "爱与“使用权”"
 date:       2025-06-19 21:00:00
 author:     "Socra Lin"
-header-img: "img/DSC_5091.jpg"
+header-img: "img/fengling.jpg"
 tags:
     - 随笔
 ---
