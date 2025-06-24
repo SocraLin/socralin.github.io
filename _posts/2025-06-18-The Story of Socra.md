@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "苏格拉的故事"
-date:       2025-06-18 21:00:00
+date:       2025-06-17 21:00:00
 author:     "Socra Lin"
 header-img: "img/wuqi.jpg"
 tags:
