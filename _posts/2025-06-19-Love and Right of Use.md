@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "爱与“使用权”"
-date:       2025-06-49 21:00:00
+date:       2025-06-19 21:00:00
 author:     "Socra Lin"
 header-img: "img/wallpaper5.jpg"
 tags:
