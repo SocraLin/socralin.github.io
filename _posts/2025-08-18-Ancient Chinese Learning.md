@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "《古代漢語》課程攻略 —— 平时學習篇"
+title:      "《古代漢語I》課程攻略 —— 平时學習篇"
 date:       2025-08-18 03:00:00
 author:     "Socra Lin"
 header-img: "img/richu4.jpg"
